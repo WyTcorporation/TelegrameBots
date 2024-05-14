@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1f0f8e2f-9783-4f15-8a04-5f6d79a2a22e" name="NewHouseBot" url="http://ironwood.ftp.tools">
+        <fileTransfer rootFolder="/bots/NewHouseBot" host="ironwood.ftp.tools" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

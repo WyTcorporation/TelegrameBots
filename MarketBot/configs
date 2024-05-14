@@ -1,0 +1,11 @@
+bot_token=6066288434:AAFrnAQrZsA_ElZUhy_eAFeL2Q82BW4EVRU
+admin_id=342345813
+
+#DB
+db_host=127.0.0.1
+db_user=postgres
+db_password=root
+db_database=godpythonlessons
+
+# Bank
+bank_token=381764678:TEST:63960

@@ -1,0 +1,15 @@
+[Unit]
+Description=HouseBot
+After=syslog.target
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/bots/NewHouseBot
+ExecStart=/usr/bin/python3.10 /bots/NewHouseBot/run.py
+RestartSec=10
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,11 @@
+bot_token=5959020863:AAHvTaq7UszcWJuUknduX9WhVJNs8UqvCJM
+admin_id=342345813
+
+#DB
+db_host=127.0.0.1
+db_user=postgres
+db_password=root
+db_database=bots
+
+# Bank
+bank_token=381764678:TEST:63960
